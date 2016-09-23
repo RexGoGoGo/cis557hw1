@@ -1,3 +1,4 @@
 # cis557hw1
+<<<<<<< HEAD
 ehh
-hahah
+lol some changes
